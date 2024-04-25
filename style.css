@@ -1,0 +1,21 @@
+#name {
+    font-size: 17px;
+}
+
+.education {
+    background-color: #f9d676fe
+}
+
+/* !!!Способ отцентровать список по центру экрана */
+.information{
+    text-align: center;
+  }
+.information > ul {
+    display: inline-block;
+    text-align: left;
+    /* max-width: 70% не обязательно */
+  }
+
+  .work_experience li {
+    color:blue;
+  }
